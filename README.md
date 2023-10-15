@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi! 
-I'm currently focusing on the django framework.
-I am also learning Docker and Kubernetes.
+I'm currently focusing on the Django framework.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mateuszgawronski) 
